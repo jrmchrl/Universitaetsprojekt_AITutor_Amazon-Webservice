@@ -1,0 +1,190 @@
+{
+  "courses": [
+    {
+      "name": "Algorithmen und Datenstrukturen",
+      "abbreviation": "ADS",
+      "category": ["computers and electronics", "Informatics", "Computer Science" ],
+      "rating": "5",
+      "price": "12",
+      "platform": "udemy"
+    },
+    {
+      "name": "Effektives Supply Chain Management und Produktionsstrategien",
+      "abbreviation": "PDL",
+      "category": ["Business Informatics"],
+      "rating": "52",
+      "price": "130",
+      "platform": "udemy"
+    },
+    {
+      "name": "KPI's in Production & Logistics",
+      "abbreviation": "PDL2",
+      "category": ["Business Informatics"],
+      "rating": "1",
+      "price": "209",
+      "platform": "udemy"
+    },
+    {
+      "name": "Introduction into Databases and SQL",
+      "abbreviation": "DBS",
+      "category": ["computers and electronics","Databases"],
+      "rating": "5",
+      "price": "18",
+      "platform": "udemy"
+    },
+    {
+      "name": "Java for Beginners",
+      "abbreviation": "PG1",
+      "category": ["Informatics" ,"Software"],
+      "rating": "3",
+      "price": "10",
+      "platform": "udemy"
+    },
+    {
+      "name": "C++ Tutorial for Complete Beginners",
+      "abbreviation": "PG2",
+      "category": ["Informatics","Software"],
+      "rating": "2",
+      "price": "10",
+      "platform": "udemy"
+    },
+    {
+      "name": "Data Science: Supervised Machine Learning in Python",
+      "abbreviation": "SDS",
+      "category": [ "Data Science", "Informatics", "Algorithms", "Software"],
+      "rating": "4",
+      "price": "29,99",
+      "platform": "udemy"
+    },
+    {
+      "name": "Computer Networks",
+      "abbreviation": "NET",
+      "category": ["Informatics","Networks & Security","Software","Business Informatics"],
+      "rating": "5",
+      "price": "19",
+      "platform": "udemy"
+    },
+    {
+      "name": "Information Security",
+      "abbreviation": "ISC",
+      "category": ["Mathematics", "Informatics","Networks & Security","Software","Business Informatics"],
+      "rating": "3",
+      "price": "130",
+      "platform": "udemy"
+    },
+    {
+      "name": "SQL-Data Analysis with MySQL",
+      "abbreviation": "DAN",
+      "category": ["Mathematics", "Informatics","Networks & Security","Algorithms","Software","Data Science","Computing"],
+      "rating": "5",
+      "price": "12",
+      "platform": "udemy"
+    },
+
+    {
+      "name": "Internet Information Services for Webdevelopers",
+      "abbreviation": "MIS",
+      "category": ["Mathematics", "Informatics","Networks & Security","Algorithms","Software","Multimedia"],
+      "rating": "4",
+      "price": "12",
+      "platform": "udemy"
+    },
+
+    {
+      "name": "Tableau 2020, Visualization and Analysis (BI)",
+      "abbreviation": "BI1",
+      "category": ["Mathematics", "Informatics","Software","Cooperative Technology","Algorithms","Business Intelligence","Business Informatics"],
+      "rating": "1",
+      "price": "12",
+      "platform": "udemy"
+    },
+    {
+      "name": "The Digital Marketing Masterclass",
+      "abbreviation": "MKG",
+      "category": ["Informatics","Software","Business Informatics","Marketing & Distribution in IT"],
+      "rating": "4",
+      "price": "18",
+      "platform": "udemy"
+    },
+    {
+      "name": "Advanced Mathematical Reasoning",
+      "abbreviation": "MR",
+      "category": ["mathematical reasoning"],
+      "rating": "5",
+      "price": "15",
+      "platform": "udemy"
+    },
+    {
+      "name": "Perceptual Speed in Human recognition",
+      "abbreviation": "PSD",
+      "category": ["perceptual speed"],
+      "rating": "1",
+      "price": "30",
+      "platform": "udemy"
+    },
+    {
+      "name": "Finger dexterity",
+      "abbreviation": "FDY",
+      "category": ["finger dexterity"],
+      "rating": "2",
+      "price": "45",
+      "platform": "udemy"
+    },
+    {
+      "name": "judgment and decision making",
+      "abbreviation": "JDM",
+      "category": ["judgment and decision making"],
+      "rating": "3",
+      "price": "60",
+      "platform": "udemy"
+    },
+    {
+      "name": "oral comprehension",
+      "abbreviation": "OCN",
+      "category": ["oral comprehension"],
+      "rating": "4",
+      "price": "75",
+      "platform": "udemy"
+    },
+    {
+      "name": "flexibility of closure",
+      "abbreviation": "FOC",
+      "category": ["flexibility of closure"],
+      "rating": "5",
+      "price": "90",
+      "platform": "udemy"
+    },
+    {
+      "name": "Near Vision",
+      "abbreviation": "NC",
+      "category": ["near vision"],
+      "rating": "1",
+      "price": "105",
+      "platform": "udemy"
+    },
+    {
+      "name": "Fluency of Ideas",
+      "abbreviation": "FOI",
+      "category": ["fluency of ideas"],
+      "rating": "2",
+      "price": "150",
+      "platform": "udemy"
+    },
+    {
+      "name": "Learning Strategies",
+      "abbreviation": "LSS",
+      "category": ["learning strategies"],
+      "rating": "3",
+      "price": "120",
+      "platform": "udemy"
+    },
+    {
+      "name": "Monitoring Species in Natural Habitat",
+      "abbreviation": "MNG",
+      "category": ["monitoring"],
+      "rating": "4",
+      "price": "135",
+      "platform": "udemy"
+    }    
+  ]
+}

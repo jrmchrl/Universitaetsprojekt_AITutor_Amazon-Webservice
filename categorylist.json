@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Mathematik",
+      "abbreviation": "ADS",
+      "dreamjob": ["Software Developer", "Purchaser", "Computer Scientist"]
+    },
+    {
+      "name": "Algorithms",
+      "abbreviation": "PDL",
+      "dreamjob": ["Software Developer", "Purchaser", "Computer Scientist"]
+    },
+    {
+      "name": "Software",
+      "abbreviation": "PDL",
+      "dreamjob": ["Software Developer", "Purchaser", "Computer Scientist"]
+    },
+    {
+      "name": "Database Systems",
+      "abbreviation": "AZ",
+      "dreamjob": ["Mathe", "Informatik"]
+    }
+  ]
+}

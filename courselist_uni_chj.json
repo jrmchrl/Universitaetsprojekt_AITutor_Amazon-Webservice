@@ -1,0 +1,269 @@
+{
+  "courses": [
+    {
+      "name": "Algorithmen und Datenstrukturen",
+      "abbreviation": "ADS",
+      "category": ["Algorithms", "Informatics", "Computer Science","Data Science","Business Informatics"],
+      "rating": "5",
+      "price": "140",
+      "platform": "univie"
+    },
+    {
+      "name": "Produktion und Logistik",
+      "abbreviation": "PDL",
+      "category": ["Business Informatics"],
+      "rating": "2",
+      "price": "120",
+      "platform": "univie"
+    },
+    {
+      "name": "Produktion und Logistik 2",
+      "abbreviation": "PDL2",
+      "category": ["Business Informatics"],
+      "rating": "5",
+      "price": "126",
+      "platform": "univie"
+    },
+    {
+      "name": "Database Systems",
+      "abbreviation": "DBS",
+      "category": ["Informatics","Databases"],
+      "rating": "5",
+      "price": "132",
+      "platform": "univie"
+    },
+    {
+      "name": "Business Process Management",
+      "abbreviation": "BPM",
+      "category": ["Informatics", "Software","Business Informatics"],
+      "rating": "5",
+      "price": "122",
+      "platform": "univie"
+    },
+    {
+      "name": "Workflow Technologies",
+      "abbreviation": "WT",
+      "category": ["Software","Business Informatics"],
+      "rating": "3",
+      "price": "100",
+      "platform": "univie"
+    },
+    {
+      "name": "Unternehmensfuehrung 1",
+      "abbreviation": "UNF",
+      "category": ["Business Informatics"],
+      "rating": "2",
+      "price": "133",
+      "platform": "univie"
+    },
+    {
+      "name": "Foundations of Data Analysis",
+      "abbreviation": "FDA",
+      "category": [ "Mathematics", "Informatics","Software", "Algorithms","Business Informatics"],
+      "rating": "2",
+      "price": "122",
+      "platform": "univie"
+    },
+    {
+      "name": "Statistics for Data Science",
+      "abbreviation": "SDS",
+      "category": [ "Data Science", "Informatics", "Algorithms", "Software"],
+      "rating": "3",
+      "price": "200",
+      "platform": "univie"
+    },
+    {
+      "name": "Networktechnology",
+      "abbreviation": "NET",
+      "category": ["Mathematics", "Informatics","Networks & Security","Software","Business Informatics"],
+      "rating": "3",
+      "price": "192",
+      "platform": "univie"
+    },
+    {
+      "name": "Information Security",
+      "abbreviation": "ISC",
+      "category": ["Mathematics", "Informatics","Networks & Security","Software","Business Informatics"],
+      "rating": "5",
+      "price": "120",
+      "platform": "univie"
+    },
+    {
+      "name": "Data Analysis",
+      "abbreviation": "DAN",
+      "category": ["Informatics","Networks & Security","Algorithms","Software","Data Science","Computing"],
+      "rating": "1",
+      "price": "120",
+      "platform": "univie"
+    },
+    {
+      "name": "Parallel Computing",
+      "abbreviation": "PCP",
+      "category": ["Informatics","Algorithms","Software","Data Science","Computing"],
+      "rating": "4",
+      "price": "180",
+      "platform": "univie"
+    },
+    {
+      "name": "Multimedia Information Systems",
+      "abbreviation": "MIS",
+      "category": ["Informatics","Networks & Security","Algorithms","Software","Multimedia"],
+      "rating": "2",
+      "price": "190",
+      "platform": "univie"
+    },
+    {
+      "name": "Cooperative Systems",
+      "abbreviation": "COSYS",
+      "category": ["Informatics","Software","Cooperative Technology","Business Informatics"],
+      "rating": "1",
+      "price": "170",
+      "platform": "univie"
+    },
+    {
+      "name": "Business Intelligence 1",
+      "abbreviation": "BI1",
+      "category": ["Informatics","Software","Cooperative Technology","Algorithms","Business Intelligence","Business Informatics"],
+      "rating": "1",
+      "price": "170",
+      "platform": "univie"
+    },
+    {
+      "name": "Business Intelligence 2",
+      "abbreviation": "BI2",
+      "category": ["Informatics","Software","Cooperative Technology","Algorithms","Business Intelligence","Business Informatics"],
+      "rating": "4",
+      "price": "100",
+      "platform": "univie"
+    },
+    {
+      "name": "Interoperability",
+      "abbreviation": "IOP",
+      "category": ["Informatics","Software","Cooperative Technology","Business Intelligence","Business Informatics"],
+      "rating": "1",
+      "price": "100",
+      "platform": "univie"
+    },
+    {
+      "name": "Marketing",
+      "abbreviation": "MKG",
+      "category": ["Software","Business Informatics","Marketing & Distribution in IT"],
+      "rating": "2",
+      "price": "110",
+      "platform": "univie"
+    },
+    {
+      "name": "Metamodelling",
+      "abbreviation": "BI2",
+      "category": ["Informatics","Software","Business Intelligence","Business Informatics"],
+      "rating": "5",
+      "price": "80",
+      "platform": "univie"
+    },
+    {
+      "name": "Knowledge Engineering",
+      "abbreviation": "KEN",
+      "category": ["Informatics","Software","Algorithms","Business Intelligence","Business Informatics"],
+      "rating": "3",
+      "price": "140",
+      "platform": "univie"
+    },
+    {
+      "name": "Digital Economics",
+      "abbreviation": "DEC",
+      "category": ["Informatics","Software","Cooperative Technology","Business Informatics"],
+      "rating": "2",
+      "price": "110",
+      "platform": "univie"
+    },
+    {
+      "name": "Programming 1",
+      "abbreviation": "PG1",
+      "category": ["Informatics","Software","Cooperative Technology","Business Informatics"],
+      "rating": "2",
+      "price": "110",
+      "platform": "univie"
+    },
+    {
+      "name": "Selective Attention",
+      "abbreviation": "SELA",
+      "category": ["selective attention"],
+      "rating": "1",
+      "price": "15",
+      "platform": "univie"
+    },
+    {
+      "name": "Inductive Reasoning",
+      "abbreviation": "INRE",
+      "category": ["inductive reasoning"],
+      "rating": "2",
+      "price": "30",
+      "platform": "univie"
+    },
+    {
+      "name": "Science",
+      "abbreviation": "SCE",
+      "category": ["science"],
+      "rating": "3",
+      "price": "45",
+      "platform": "univie"
+    },
+    {
+      "name": "Biology",
+      "abbreviation": "BIO",
+      "category": ["biology"],
+      "rating": "4",
+      "price": "60",
+      "platform": "univie"
+    },
+    {
+      "name": "Inductive Reasoning",
+      "abbreviation": "INRE",
+      "category": ["inductive reasoning"],
+      "rating": "5",
+      "price": "75",
+      "platform": "univie"
+    },
+    {
+      "name": "Writing",
+      "abbreviation": "WRI",
+      "category": ["writing"],
+      "rating": "1",
+      "price": "90",
+      "platform": "univie"
+    },
+    {
+      "name": "Reading Comprehension",
+      "abbreviation": "RECO",
+      "category": ["reading comprehension"],
+      "rating": "2",
+      "price": "105",
+      "platform": "univie"
+    },
+    {
+      "name": "Fluency of Ideas",
+      "abbreviation": "FLUID",
+      "category": ["fluency of ideas"],
+      "rating": "3",
+      "price": "120",
+      "platform": "univie"
+    },
+    {
+      "name": "Chemistry for Beginners",
+      "abbreviation": "CH",
+      "category": ["chemistry"],
+      "rating": "4",
+      "price": "135",
+      "platform": "univie"
+    },
+    {
+      "name": "Speaking",
+      "abbreviation": "SPE",
+      "category": ["speaking"],
+      "rating": "5",
+      "price": "150",
+      "platform": "univie"
+    } 
+
+  ]
+}
